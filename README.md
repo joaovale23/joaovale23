@@ -18,11 +18,8 @@
 
 ## 📌 Repositórios em Destaque
 
-🔹 [projeto-saude-inteligente](https://github.com/joaovale/projeto-saude-inteligente) – Sistema de monitoramento de pacientes em tempo real  
-🔹 [portfolio-react](https://github.com/joaovale/portfolio-react) – Meu portfólio pessoal em React  
-🔹 [pdi-em-java](https://github.com/joaovale/pdi-em-java) – Projeto de Processamento de Imagens com Java
+
 
 ## 📫 Contato
 
-- [LinkedIn](https://linkedin.com/in/seuperfil)
-- Email: seuemail@email.com
+- 
