@@ -1,7 +1,6 @@
 # 👋 Olá, eu sou o João Vale!
 
 🎓 Estudante de Análise e Desenvolvimento de Sistemas  
-🧪 Focado em mobile  
 📘 Apaixonado por programação, ciência e inovação
 
 ## 🛠️ Tecnologias e Ferramentas
