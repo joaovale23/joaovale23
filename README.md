@@ -20,10 +20,6 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
 
 
-## 📈 GitHub Stats
-
-![João's GitHub stats](https://github-readme-stats.vercel.app/api?username=joaovale&show_icons=true&theme=dracula)
-
 ## 📌 Repositórios em Destaque
 
 https://github.com/joaovale23/teste-intuitive-care <br>
