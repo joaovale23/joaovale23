@@ -24,10 +24,10 @@ Na ZeroUm Mobilidade, desenvolvo de ponta a ponta os sistemas internos da empres
 
 ### Em destaque
 
+- [**hexfolio**](https://github.com/joaovale23/hexfolio): meu portfólio, em que o layout é a arquitetura do sistema que o serve. Java 25 + Spring Boot 4 em arquitetura hexagonal, AWS SQS, Testcontainers, ArchUnit e front em React. [Ver no ar](https://joaovale23.github.io/hexfolio/)
 - [**etl-ans**](https://github.com/joaovale23/etl-ans): pipeline ETL com dados públicos da ANS, API REST e painel web (Python, PostgreSQL, FastAPI, Vue). [Demo](https://etl-ans.vercel.app/)
 - [**LocVac**](https://github.com/claraneves23/LocVac): app de carteira de vacinação digital (React Native, TypeScript, Java)
-- [**MyPortfolio**](https://github.com/joaovale23/MyPortfolio): portfólio interativo no formato de sistema operacional
 
 ### Contato
 
-[LinkedIn](https://www.linkedin.com/in/joaovitorvale) · [Portfólio](https://joaovale23.github.io/MyPortfolio/) · joaovitorvalec@gmail.com
+[LinkedIn](https://www.linkedin.com/in/joaovitorvale) · [Portfólio](https://joaovale23.github.io/hexfolio/) · joaovitorvalec@gmail.com
