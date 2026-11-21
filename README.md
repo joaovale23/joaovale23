@@ -2,7 +2,7 @@
 
 **Desenvolvedor Full Stack com foco em Java e Spring Boot** · Guarujá – SP
 
-Sou o único desenvolvedor da ZeroUm Mobilidade, onde em seis meses entreguei seis sistemas do zero: backends em Java 21 + Spring Boot 3 com arquitetura hexagonal e testes automatizados, front-end em React e apps mobile. O código desses sistemas é privado; aqui ficam meus projetos pessoais e acadêmicos.
+Na ZeroUm Mobilidade, desenvolvo de ponta a ponta os sistemas internos da empresa. Em seis meses entreguei seis sistemas do zero: backends em Java 21 + Spring Boot 3 com arquitetura hexagonal e testes automatizados, front-end em React e apps mobile. O código desses sistemas é privado; aqui ficam meus projetos pessoais e acadêmicos.
 
 ### Stack
 
