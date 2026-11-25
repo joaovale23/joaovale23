@@ -31,6 +31,10 @@ Na ZeroUm Mobilidade, desenvolvo de ponta a ponta os sistemas internos da empres
 - [**etl-ans**](https://github.com/joaovale23/etl-ans): pipeline ETL com dados públicos da ANS, API REST e painel web (Python, PostgreSQL, FastAPI, Vue). [Demo](https://etl-ans.vercel.app/)
 - [**LocVac**](https://github.com/claraneves23/LocVac): app de carteira de vacinação digital (React Native, TypeScript, Java)
 
-### Contato
+### In English
+
+Full stack developer focused on **Java and Spring Boot**, based in Brazil. At ZeroUm Mobilidade I built six internal systems from scratch in six months: Java 21 + Spring Boot 3 backends with hexagonal architecture and 1,100+ automated tests, React and Angular front-ends and mobile apps. I work with AI-assisted, spec-driven development (Claude Code) and human review. English: advanced (TOEIC 910).
+
+### Contato / Contact
 
 [LinkedIn](https://www.linkedin.com/in/joaovitorvale) · [Portfólio](https://joaovale23.github.io/hexfolio/) · joaovitorvalec@gmail.com
