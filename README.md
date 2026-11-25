@@ -10,13 +10,14 @@ Na ZeroUm Mobilidade, desenvolvo de ponta a ponta os sistemas internos da empres
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=springboot&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 
-- **Back-end:** Java 21, Spring Boot 3 e 4 (Web, Data JPA, Security/JWT, Validation), Flyway, PostgreSQL, Redis
+- **Back-end:** Java 21, Spring Boot 3 e 4 (Web, Data JPA, Security/JWT, Validation), Flyway, PostgreSQL, Redis; Python com FastAPI
 - **Testes:** JUnit 5, Mockito, Testcontainers
 - **Arquitetura:** hexagonal, Clean Architecture, DDD, ADRs
 - **Front-end e mobile:** Angular, React, TypeScript, Next.js, Flutter, React Native
